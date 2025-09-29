@@ -79,7 +79,7 @@ This project addresses the **$26B+ annual global cost of flight delays** by movi
 
 ## 📸 Screenshots
 
-Visuals and dashboards are available in the attached presentation:
+Visuals are available in the attached presentation:
 **Flight Delay Prediction and Operations Optimization.pptx**
 ![image alt](https://github.com/MohanS-2009/Flight-Delay-Prediction-and-Operations-Optimization/blob/main/Flight%20Delay%20Prediction%20and%20Operations%20Optimization.png)
 
